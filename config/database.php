@@ -7,7 +7,7 @@ class Database{
     private $host = "localhost";
     private $db_name = "api_db";
     private $username = "root";
-    private $password = "";
+    private $password = "00";
     public $conn;
  
     // obter a conexão com o banco de dados
