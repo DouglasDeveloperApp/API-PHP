@@ -28,7 +28,7 @@ if($num>0){
     $products_arr=array();
     $products_arr["records"]=array();
  
-    // recuperar o conteúdo da nossa tabela
+    // recuperar o conteúdo da tabela
     while ($row = $stmt->fetch(PDO::FETCH_ASSOC)){
         // extrair linha
         // isso fará $ row ['name']
