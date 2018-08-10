@@ -1,6 +1,6 @@
 <?php
     // Conecte-se ao banco de dados
-    // Database ------ database.php - arquivo usado para conectar ao banco de dados.
+    // Database - arquivo usado para conectar ao banco de dados.
 class Database{
  
     // especificar suas próprias credenciais de banco de dados
