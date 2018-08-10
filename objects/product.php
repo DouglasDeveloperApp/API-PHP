@@ -1,6 +1,6 @@
 <?php
     // Leia os produtos
-    // Product ------ product.php - contém propriedades e métodos para consultas de banco de dados "produto".
+    // Product - contém propriedades e métodos para consultas de banco de dados "produto".
 class Product{
  
     // conexão de banco de dados e nome da tabela
