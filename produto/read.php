@@ -1,6 +1,6 @@
 <?php
 
-// Read ------ read.php - arquivo que produzirá dados JSON baseados em registros de banco de dados de "produtos".
+// Read - arquivo que produzirá dados JSON baseados em registros de banco de dados de "produtos".
 
 // cabeçalhos obrigatórios
 header("Access-Control-Allow-Origin: *");
